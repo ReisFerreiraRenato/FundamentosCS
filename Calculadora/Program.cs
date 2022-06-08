@@ -4,7 +4,7 @@
     {
         Console.Clear();
         Console.WriteLine("Primeiro valor: ");
-        float v1 = float.Parse(Console.Readline());
+        float v1 = float.Parse(Console.ReadLine());
         Console.WriteLine(v1);
         Console.WriteLine("Segundo valor");
     }
